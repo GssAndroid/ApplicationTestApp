@@ -1,8 +1,10 @@
 # cache for current jar dependency. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1490578026000 141158 e8796346a9191a019e936210a2dc50662c57594b C:\Users\gss\Android\Workspace\SPInventory\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar
-1490578446000 141158 e8796346a9191a019e936210a2dc50662c57594b C:\Users\gss\Android\Workspace\ws3\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar
-1490578446000 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\gss\Android\Workspace\ws3\libs\android-support-v4.jar
-1490578026000 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\gss\Android\Workspace\SPInventory\libs\android-support-v4.jar
-1490578026000 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\gss\Android\Workspace\android-support-v7-appcompat\libs\android-support-v4.jar
+1490700736287 141158 e8796346a9191a019e936210a2dc50662c57594b C:\Users\gss\git\ApplicationTestApp1\SPInventory\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar
+1490700645491 141158 e8796346a9191a019e936210a2dc50662c57594b C:\Users\gss\git\LibrariesTestApp1\ws3\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar
+1479456793942 141158 e8796346a9191a019e936210a2dc50662c57594b C:\Users\gss\git\LibrariesTestApp1\ws1\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar
+1480055296055 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\gss\git\LibrariesTestApp1\ws1\libs\android-support-v4.jar
+1490700736057 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\gss\git\ApplicationTestApp1\SPInventory\libs\android-support-v4.jar
+1490700646509 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\gss\git\LibrariesTestApp1\android-support-v7-appcompat\libs\android-support-v4.jar
+1490700646463 648327 ded9acc6a9792b8f1afc470f0c9cd36d178914cd C:\Users\gss\git\LibrariesTestApp1\ws3\libs\android-support-v4.jar

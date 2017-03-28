@@ -12,9 +12,8 @@ import org.ksoap2.serialization.SoapObject;
 import org.ksoap2.serialization.SoapSerializationEnvelope;
 import org.ksoap2.transport.HttpTransportSE;
 
+import com.example.ws1.api;
 import com.example.ws3.WebService;
-
-
 
 
 import android.app.Activity;
@@ -63,7 +62,16 @@ public class Search extends ActionBarActivity {
      	System.out.println("After start Response from ws lib ");
 
      	System.out.println("Response from ws lib "+strRes);
-       
+
+     	
+     	System.out.println("Before start Response from ws1 lib ");
+        api response1 = new api();
+      
+        String strRes1 = response1.getResult(); 
+     	System.out.println("After start Response from ws1 lib ");
+
+     	System.out.println("Response from ws lib "+strRes1);
+
         
 	searchView=(SearchView) findViewById(R.id.searchView);
     searchView.setQueryHint("Search for Products");
